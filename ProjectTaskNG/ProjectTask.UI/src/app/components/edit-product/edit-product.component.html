@@ -1,0 +1,10 @@
+<div *ngIf="product">
+    <h2>{{product.name}}</h2>
+    <div>
+        Adı:
+        <input [(ngModel)]="product.name" placeholder="Name"/>
+    </div>
+    <button (click)="updateProduct(product)" *ngIf="product.id">Güncelle</button>
+    <button (click)="deleteProduct(product)" *ngIf="product.id">Sil</button>
+    <button (click)="createProduct(product)" *ngIf="!product.id">Kaydet</button>
+</div>

@@ -1,0 +1,14 @@
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Core\bin\Debug\net6.0\ProjectTask.Core.deps.json
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Core\bin\Debug\net6.0\ProjectTask.Core.runtimeconfig.json
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Core\bin\Debug\net6.0\ProjectTask.Core.dll
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Core\bin\Debug\net6.0\ref\ProjectTask.Core.dll
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Core\bin\Debug\net6.0\ProjectTask.Core.pdb
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Core\obj\Debug\net6.0\ProjectTask.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Core\obj\Debug\net6.0\ProjectTask.Core.AssemblyInfoInputs.cache
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Core\obj\Debug\net6.0\ProjectTask.Core.AssemblyInfo.cs
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Core\obj\Debug\net6.0\ProjectTask.Core.csproj.CoreCompileInputs.cache
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Core\obj\Debug\net6.0\ProjectTask.Core.dll
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Core\obj\Debug\net6.0\ref\ProjectTask.Core.dll
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Core\obj\Debug\net6.0\ProjectTask.Core.pdb
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Core\obj\Debug\net6.0\ProjectTask.Core.genruntimeconfig.cache
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Core\obj\Debug\net6.0\ProjectTask.Core.csproj.AssemblyReference.cache

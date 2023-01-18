@@ -1,0 +1,10 @@
+<div *ngIf="category">
+    <h2>{{category.name}}</h2>
+    <div>
+        Adı:
+        <input [(ngModel)]="category.name" placeholder="Name"/>
+    </div>
+    <button (click)="updateCategory(category)" *ngIf="category.id">Güncelle</button>
+    <button (click)="deleteCategory(category)" *ngIf="category.id">Sil</button>
+    <button (click)="createCategory(category)" *ngIf="!category.id">Kaydet</button>
+</div>

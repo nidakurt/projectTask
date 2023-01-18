@@ -1,0 +1,31 @@
+<button (click)="initNewCategory()">Yeni Kategori</button>
+<table>
+  <thead>
+    <th>Kategori Adı</th>
+    <th></th>
+  </thead>
+  <tbody>
+    <tr *ngFor="let category of categories">
+      <td>{{category.name}}</td>
+      <td><button (click)="editCategory(category)">Düzenle</button></td>
+    </tr>
+  </tbody>
+</table>
+
+<app-edit-category [category]="categoryToEdit" (categoriesUpdated)="updateCategoryList($event)"></app-edit-category> 
+
+<button (click)="initNewProduct()">Yeni Ürün</button>
+<table>
+  <thead>
+    <th>Ürün Adı</th>
+    <th></th>
+  </thead>
+  <tbody>
+    <tr *ngFor="let product of products">
+      <td>{{product.name}}</td>
+      <td><button (click)="editProduct(product)">Düzenle</button></td>
+    </tr>
+  </tbody>
+</table>
+
+<app-edit-product [product]="productToEdit" (productsUpdated)="updateProductList($event)"></app-edit-product> 

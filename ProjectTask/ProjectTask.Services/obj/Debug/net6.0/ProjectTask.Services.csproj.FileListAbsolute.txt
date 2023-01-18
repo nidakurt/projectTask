@@ -1,0 +1,17 @@
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Services\bin\Debug\net6.0\ProjectTask.Services.deps.json
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Services\bin\Debug\net6.0\ProjectTask.Services.dll
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Services\bin\Debug\net6.0\ref\ProjectTask.Services.dll
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Services\bin\Debug\net6.0\ProjectTask.Services.pdb
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Services\obj\Debug\net6.0\ProjectTask.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Services\obj\Debug\net6.0\ProjectTask.Services.AssemblyInfoInputs.cache
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Services\obj\Debug\net6.0\ProjectTask.Services.AssemblyInfo.cs
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Services\obj\Debug\net6.0\ProjectTask.Services.csproj.CoreCompileInputs.cache
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Services\obj\Debug\net6.0\ProjectTask.Services.dll
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Services\obj\Debug\net6.0\ref\ProjectTask.Services.dll
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Services\obj\Debug\net6.0\ProjectTask.Services.pdb
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Services\bin\Debug\net6.0\ProjectTask.Core.dll
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Services\bin\Debug\net6.0\ProjectTask.Data.dll
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Services\bin\Debug\net6.0\ProjectTask.Data.pdb
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Services\bin\Debug\net6.0\ProjectTask.Core.pdb
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Services\obj\Debug\net6.0\ProjectTask.Services.csproj.AssemblyReference.cache
+C:\Users\Haldun\Desktop\NidaYilmazturkProje\ProjectTask\ProjectTask.Services\obj\Debug\net6.0\ProjectTask.Services.csproj.CopyComplete
